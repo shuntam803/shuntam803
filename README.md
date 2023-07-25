@@ -10,3 +10,6 @@
   <img height="170" align="left" src="https://github-readme-stats.vercel.app/api?username=shuntam803&count_private=true&include_all_commits=true" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shuntam803&layout=compact" />
 </div>
+
+
+![Counter](https://profile-counter.glitch.me/shuntam803/count.svg)
